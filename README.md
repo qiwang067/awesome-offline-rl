@@ -1452,6 +1452,8 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Jianxiong Li, Xiao Hu, Haoran Xu, Jingjing Liu, Xianyuan Zhan, and Ya-Qin Zhang. arXiv, 2023.
 - [Matrix Estimation for Offline Reinforcement Learning with Low-Rank Structure](https://arxiv.org/abs/2305.15621)
   - Xumei Xi, Christina Lee Yu, and Yudong Chen. arXiv, 2023.
+- [Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning](https://arxiv.org/pdf/2305.15260)
+  - Qi Wang, Junming Yang, Yunbo Wang, Xin Jin, Wenjun Zeng, and Xiaokang Yang. arXiv, 2023.
 - [Offline Experience Replay for Continual Offline Reinforcement Learning](https://arxiv.org/abs/2305.13804)
   - Sibo Gai, Donglin Wang, and Li He. arXiv, 2023.
 - [Causal Decision Transformer for Recommender Systems via Offline Reinforcement Learning](https://arxiv.org/abs/2304.07920)
